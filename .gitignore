@@ -1,0 +1,72 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@nafsar 
+nafsar
+/
+students-giphy-search
+1
+00
+ Code Issues 0 Pull requests 1 Actions Projects 0 Wiki Security Insights Settings
+students-giphy-search/.gitignore
+@nafsar nafsar new project
+93764b0 on Oct 27, 2019
+39 lines (33 sloc)  504 Bytes
+  
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+*.vscode/*
+*.vscode/settings.json
+*.vscode/tasks.json
+*.vscode/launch.json
+*.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
